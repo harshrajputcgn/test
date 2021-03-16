@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '',
-  siteUrl: 'https://rolwinreevan.com',
-  siteTitle: 'Rolwin Reevan',
+  siteUrl: 'https://howtower.com',
+  siteTitle: 'Harsh Rajput',
   siteDescription: 'Logbook of a software developer',
   author: 'Rolwin Reevan',
   postsForArchivePage: 3,
